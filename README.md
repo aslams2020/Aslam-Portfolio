@@ -11,7 +11,7 @@ My key areas of interest include:
 - **Open Source Contributions**: Actively contributing to open-source projects to enhance my coding skills and collaborate with the community.
 - **Java Programming**: Working on various projects using Java, including enhancing functionalities and applying OOP concepts.
 
-## Skills
+## Skills 💡
 
 - **Programming Languages**: Java, Python, JavaScript
 - **Web Development**: HTML, CSS, JavaScript, React.js
