@@ -1,1 +1,59 @@
-/*  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: #33333300; 
+    padding: 20px 20px; 
+    border: 1px solid rgba(0, 0, 0, 0.151);
+}
+
+  
+/* Logo */
+.logo a {
+    /* font-family: "Yellowtail", cursive; */
+    font-family: "Bebas Neue", sans-serif;
+    /* font-weight: 400; */
+    /* font-style: normal; */
+    text-decoration: none;
+    color: rgb(0, 0, 0); 
+    font-size: 34px; 
+    font-weight: bold;  
+}
+
+/* Navigation links */
+.nav-links {
+    list-style: none;  
+    display: flex;  
+}
+
+.nav-links li {
+    margin-left: 20px;  
+}
+
+.nav-links a {
+    font-weight: 400;
+    text-decoration: none; 
+    color: rgb(0, 0, 0); 
+    font-size: 20px;  
+    padding: 0px 12px; 
+    transition: color 0.3s ease; 
+}
+
+.nav-links a:hover {
+    /* background-color: #575757;   */
+    text-decoration: underline;
+    color : rgb(255, 40, 75);
+} 
+.nav-links a.active {
+    text-decoration: underline;  
+    font-weight: bold; 
+    /* color : rgb(4, 4, 4); */
+}
