@@ -29,7 +29,7 @@ My key areas of interest include:
 - Contributed to various open-source projects, enhancing features and user experience.
 - Earned the 'Explorer Badge' for active participation and contributions.
 
-### SSOC Season 3 Contributor
+### 2. SSOC Season 3 Contributor
 - Worked on improving and fixing issues in open-source projects, gaining hands-on experience in collaborative development.
 
 ## Certifications
